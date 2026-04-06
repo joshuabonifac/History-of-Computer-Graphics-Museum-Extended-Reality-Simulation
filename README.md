@@ -10,7 +10,7 @@ Note for Video: Feel free to pause to process the information.
 
 In earlier drafts, I put posters that included Commodore Amiga, Myst, Toy Story, and so on. When recording the project, I realized that the pacing I had to manage, especially with the speed of walking, didn't match the time requirements for the competition. I decided to show the more impactful ones, which were Sketchpad, Silicon Graphics, OpenGL, and GPUs.
 
-The struggles I had in the project were copyright infringement. I had to remove the images and replace the floor texture. For a texture with a free-to-use license, I had to find one that had a license agreement without facing consequences.
+The struggles I had in the project were copyright infringement problems. I had to remove the images and replace the floor texture. For a texture with a free-to-use license, I had to find one that had a license agreement without facing consequences.
 
 In this project, I learned:
 - Technical Communication
