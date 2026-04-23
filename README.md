@@ -20,6 +20,6 @@ In this project, I learned:
 
 I wanted to show people in my community to understand the graphics we see in our everyday environment. I connected the important pieces that inspired Games, Movies, Animations, Visualizations, and so on. I didn't want viewers to panic and find it abstract. I wanted to connect media that people have interests on and can relate to the systems, math, and GPUs of the field.
 
-The video I showed on social media had engagement from graphics programming communities, as well as people from my vocational high school and hometown district. There were a lot of views from people, and people responded positively to my presentation on the history of graphics. Notably, it received recognition from state-level leadership within the Technology Student Association.
+The video I shared on social media got engagement from graphics programming communities, as well as people from my vocational high school and hometown district. There were many views, and people responded positively to my presentation on the history of graphics. Notably, it received recognition from state-level leadership within the Technology Student Association.
 
 This can also help me prepare for the research side of the field, such as reading SIGGRAPH papers, understanding algorithms, and optimization.
