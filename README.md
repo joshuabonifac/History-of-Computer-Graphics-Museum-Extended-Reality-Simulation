@@ -4,7 +4,7 @@ This Simulation covers the history on Computer Graphics, including Sketchpad, Si
 PDF to Virtual Reality Simulation Documentation, including video. [VirtualRealitySimulation2182011 .pdf](https://github.com/user-attachments/files/26484805/VirtualRealitySimulation2182011.pdf)
 
 Link to Video
-URL: https://youtu.be/7LfXLGYqqeo?si=kyXrHV7cMGa0edLL
+URL: https://youtu.be/gsgXE_bImXo?si=3X_p8FkLs3ABPPac
 
 Note for Video: Feel free to pause to process the information.
 
