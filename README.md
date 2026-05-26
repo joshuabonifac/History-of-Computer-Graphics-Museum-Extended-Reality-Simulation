@@ -1,7 +1,7 @@
 # History-of-Computer-Graphics-Museum-Extended-Reality-Simulation
 This Simulation covers the history on Computer Graphics, including Sketchpad, Silicon Graphics, OpenGL, and GPUs. 
 
-PDF to Virtual Reality Simulation Documentation, including video. [VirtualRealitySimulation2182011 .pdf](https://github.com/user-attachments/files/26484805/VirtualRealitySimulation2182011.pdf)
+PDF to Virtual Reality Simulation Documentation, including video. XR musuem simulation on the history of computer graphics.pdf
 
 Link to Video
 URL: https://youtu.be/gsgXE_bImXo?si=3X_p8FkLs3ABPPac
